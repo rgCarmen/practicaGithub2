@@ -1,4 +1,4 @@
 # practicaGithub2
-###### Participantes
+#### Participantes
 * Martina Cebolla Salas
 * Carmen Rodríguez González
